@@ -7,7 +7,7 @@ https://downloads.chef.io/chef-server/
 
 - Run the installer:
 ```
-yum -Uvh <package_name>.rpm
+rpm -Uvh <package_name>.rpm
 dpkg -i <package_name>.deb
 ```
 - Reconfigure the server package:
